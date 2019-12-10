@@ -1,0 +1,77 @@
+@charset "UTF-8";
+body {
+    background-color: antiquewhite;
+}
+#company {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+#slogan {
+    font-size: 30px;
+    font-weight: bold;
+    top: 60px;
+    left: 60px;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+#hero-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.body-container {
+    
+    top: 350px;
+    left: 90px;
+}
+
+#h1 {
+    
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(211, 104, 16);
+}
+
+#h2 {
+    
+    font-size: 25px;
+    color: darkgoldenrod;
+}
+
+#h3 {
+    
+    font-size: 25px;
+    color: darkgoldenrod;
+}
+
+#h4 {
+    
+    font-size: 25px;
+    color: darkgoldenrod;
+}
+
+#message {
+    
+    font-size: 15px;
+    color: black;
+}
+
+#message-2 {
+    
+    font-size: 15px;
+    color: black;
+}
+
+.footer {
+    left: 0;
+    top: 900px;
+    width: 100%;
+    background-color: rgb(211, 104, 16);
+    color: white;
+    text-align: center;
+}
